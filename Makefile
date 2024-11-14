@@ -72,6 +72,7 @@ wait_server:
 		sleep 1; \
 	done
 	@echo "Le serveur est prêt !"
+	@echo "Vous pouvez accéder à l'application via https://$(HOSTNAME):4433"
 
 
 re: clear all
