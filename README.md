@@ -1,10 +1,6 @@
 # ft_transcendence (public version)
 
-Bienvenue aventurier, tu te trouves sur le dépôt public du projet ft_transcendence réalisé par mon groupe et moi. Commençons rapidement par les citer :
-
-- [Quentin Denizart](https://github.com/LaDeniseDe42)
-- [Alexandre Herrmann](https://github.com/alexandre6795)
-- [Damla Erblang](https://github.com/iamdamla)
+Bienvenue aventurier, tu te trouves sur le dépôt public du projet ft_transcendence réalisé par mon groupe et moi. 
 
 À nous quatre, nous avons réalisé le ft_transcendence que je me suis permis de rendre public. Ce dépôt contient tout le travail que nous avons fait pour rendre le projet, mais en version légèrement modifiée pour que tout le monde puisse le lancer chez lui tant qu'il a les prérequis qui seront indiqués plus bas.
 
@@ -137,6 +133,17 @@ Liste de langages et frameworks :
         - html
         - css
         - javascript
+## 🤝 Contribution
+
+Ce projet a été réalisé avec les personnes suivantes :
+
+- [Quentin Denizart](https://github.com/LaDeniseDe42)  
+- [Alexandre Herrmann](https://github.com/alexandre6795)  
+- [Damla Erblang](https://github.com/iamdamla)  
+- [Axel Kastler](https://github.com/ChromaXard)
+
+
+
 
 
 
