@@ -135,7 +135,7 @@ Liste de langages et frameworks :
         - javascript
 ## 🤝 Contribution
 
-Ce projet a été réalisé grâce à la contribution des personnes suivantes :
+Ce projet a été réalisé avec les personnes suivantes :
 
 - [Quentin Denizart](https://github.com/LaDeniseDe42)  
 - [Alexandre Herrmann](https://github.com/alexandre6795)  
